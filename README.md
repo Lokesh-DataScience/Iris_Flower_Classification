@@ -28,8 +28,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Lokesh-DataScience/OASIS_Iris_Flower_Classification.git
-    cd OASIS_Iris_Flower_Classification
+    git clone https://github.com/Lokesh-DataScience/oibsip_1.git
+    cd oibsip_1
     ```
 
 2. Install the required Python libraries:
