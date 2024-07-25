@@ -25,8 +25,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Lokesh-DataScience/oibsip_1.git
-    cd oibsip_1
+    git clone https://github.com/Lokesh-DataScience/Iris_Flower_Classification.git
+    cd Iris_Flower_Classification
     ```
 
 2. Install the required Python libraries:
